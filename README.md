@@ -10,7 +10,7 @@ and paste it ./yolov5/Trained_Model/ directory of the code.
 
 1. Clone repository:
     ```bash
-    git clone git@github.com:hussainhadi673/Car-Detection-from-Video.git
+    git clone https://github.com/abhinavrathnam/Car-detection-from-the-video
    
     cd yolov5
     ```
